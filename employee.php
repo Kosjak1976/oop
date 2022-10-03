@@ -15,5 +15,3 @@ $employee2->name = 'Erik';
 $employee2->age = 26;
 $employee2->salary = '2000';
 
-echo  "Сума зарплат користувачів: " . $employee1->salary + $employee2->salary . "<br>";
-echo  "Сума віку користувачів: " . $employee1->age + $employee2->age;
